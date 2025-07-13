@@ -24,7 +24,17 @@
 
 ---
 
+## 🎵 My Favorite Song
+
+https://github.com/user-attachments/assets/67c19ffd-da68-4de2-af38-599436275ab4
+
+---
+
+
 ## 📊 Most Used Languages
+
+
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zs-3&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
 </p>
@@ -44,7 +54,7 @@
 
 ### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zs-3/zs-3/094638b7f033f38783ce2556b266221815007cd9/dist/github-snake.svg" alt="Snake animation" />
+  <img src="dist/github-snake.svg" alt="Snake animation" />
 </p>
 
 ---
