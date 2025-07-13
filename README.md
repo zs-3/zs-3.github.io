@@ -54,7 +54,7 @@ https://github.com/user-attachments/assets/67c19ffd-da68-4de2-af38-599436275ab4
 
 ### 🐍 Contribution Snake
 <p align="center">
-  <img src="dist/github-snake.svg" alt="Snake animation" />
+  <img src="https://zs-3.github.io/zs-3/dist/github-snake.svg" />
 </p>
 
 ---
